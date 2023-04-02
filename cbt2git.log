@@ -1,0 +1,12 @@
+2023-04-02 22:53:45.527683 - Initialized conversion of CBT240
+2023-04-02 22:53:45.588919 - Received CBT.V504.FILE240.PDS from FILE240.XMI 
+2023-04-02 22:53:45.591995 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:53:45.593154 - Found @FILE240.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/@FILE240
+2023-04-02 22:53:45.594256 - Found REAS00.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/REAS00
+2023-04-02 22:53:45.595332 - Found REAS01.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/REAS01
+2023-04-02 22:53:45.596299 - Found REAS02.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/REAS02
+2023-04-02 22:53:45.597260 - Found REAS03.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/REAS03
+2023-04-02 22:53:45.598145 - Found REAS04.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/REAS04
+2023-04-02 22:53:45.599050 - Found REAS05.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/REAS05
+2023-04-02 22:53:45.600042 - Found REAS06.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/REAS06
+2023-04-02 22:53:45.600917 - Found REAS07.txt (text/plain) in CBT.V504.FILE240.PDS, moved to PDS/REAS07
